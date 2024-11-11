@@ -1,0 +1,17 @@
+[33mcommit bb2eae3710eee2ff82222a6a4185ebb803c26993[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature-delete[m[33m)[m
+Author: Amir Hajipoor <amir.hjr@outlook.com>
+Date:   Mon Nov 11 12:49:27 2024 +0330
+
+    Add delete feature
+
+[33mcommit ee480cca65a75f9e990a2ee9c8dabfa0c5f80f3f[m[33m ([m[1;32mmain[m[33m)[m
+Author: Amir Hajipoor <amir.hjr@outlook.com>
+Date:   Mon Nov 11 12:25:44 2024 +0330
+
+    Update welcome message
+
+[33mcommit 2bbdc33352295c67395a7f94a15471fb383c5d37[m
+Author: Amir Hajipoor <amir.hjr@outlook.com>
+Date:   Mon Nov 11 12:23:16 2024 +0330
+
+    init project

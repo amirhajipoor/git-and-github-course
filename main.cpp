@@ -59,7 +59,7 @@ void showMenu()
     int q = 0;
 
     do {
-        cout << "Welcome, what do you want to do?" << endl;
+        cout << "Welcome to my app, what do you want to do?" << endl;
         cout << "1) Show students" << endl;
         cout << "2) Add student" << endl;
         cin >> q;
